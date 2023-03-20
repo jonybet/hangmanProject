@@ -8,7 +8,7 @@ random word. Choose at least 30 words and it can be split into categories. For e
 
 Create a scores tally to let the user know how many times they won or lost
 
-Ask user wants to keep playing or quit. 
+Ask user if they want to keep playing or quit. 
 
 Example Output:
 
