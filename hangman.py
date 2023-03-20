@@ -1,3 +1,5 @@
+# MAIN PROGRAM
+
 wins = 0
 losses = 0
 
@@ -159,7 +161,7 @@ def play_game():
         # I changed this part of the code to accomodate for the extra total guesses that may occur correctly but still have 8 wrong in total leading to the revealing of the correct word
     except TypeError:
         print("Invalid Input, input must be a number 1-3 please try again")
-
+# This is where im having trouble adding up the Score Counter to keep track of wins and losses
 def score():
     print("")
     print(" Score")
